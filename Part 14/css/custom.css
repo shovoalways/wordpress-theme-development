@@ -1,0 +1,220 @@
+/*=======================================
+ Common CSS
+========================================*/
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 1.5em;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 1.5em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oswald", sans-serif;
+  line-height: 1.5em;
+}
+img {
+  max-width: 100%;
+}
+a.redmore {
+  background: #ea1a70;
+  color: #fff;
+  font-size: 15px;
+  text-decoration: navajowhite;
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+a.redmore:hover {
+  background: #262626;
+}
+/*=======================================
+ Header Area Style
+========================================*/
+#header_area {
+  padding: 15px 0;
+}
+
+#header_area .col-md-9 ul {
+  font-family: "Oswald", sans-serif;
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+#header_area .col-md-9 ul li {
+  display: inline-block;
+  position: relative;
+}
+#header_area .col-md-9 ul li a span {
+  font-family: "Kaisei Decol", serif;
+  display: block;
+  font-size: 13px;
+}
+#header_area .col-md-9 ul li a {
+  color: #262626;
+  padding: 20px 10px;
+  font-size: 16px;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+#header_area .col-md-9 ul li a:hover {
+  background: #ea1a70;
+  color: #fff;
+}
+
+/*Dropdown Menu*/
+#header_area .col-md-9 ul li ul {
+  background: #262626 none repeat scroll 0 0;
+  left: -99999px;
+  margin: 0;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  width: 200px;
+  z-index: 99999;
+}
+#header_area .col-md-9 ul li:hover ul {
+  left: 0px;
+}
+#header_area .col-md-9 ul li ul li {
+  display: block;
+}
+#header_area .col-md-9 ul li ul li a {
+  color: #fff;
+  padding: 8px 10px;
+}
+#header_area .col-md-9 ul li ul li a:hover {
+  background: #ddd;
+  color: #262626;
+}
+#header_area .col-md-9 ul li:hover a {
+  background: #ea1a70;
+  color: #fff;
+}
+#header_area .col-md-9 ul li:hover ul li a {
+  background: none;
+  color: #fff;
+}
+
+/*Sub Dropdown Menu*/
+#header_area .col-md-9 ul li ul ul {
+  left: -99999px;
+  top: 0;
+  position: absolute;
+}
+#header_area .col-md-9 ul li:hover ul li ul {
+  left: -999999px;
+}
+#header_area .col-md-9 ul li ul li:hover ul {
+  left: 200px;
+}
+#header_area .col-md-9 ul li ul li:hover a {
+  background: #ea1a70;
+  color: #fff;
+}
+#header_area .col-md-9 ul ul li:hover ul li a {
+  background: #262626;
+  color: #fff;
+}
+#header_area .col-md-9 ul ul li ul li a:hover {
+  background: #ea1a70;
+  color: #fff;
+}
+
+/*===========================================
+  Menu Position
+===========================================*/
+#header_area.left_menu .col-md-3 {
+  order: 2;
+}
+#header_area.left_menu .col-md-9 {
+  order: 1;
+}
+#header_area.left_menu .col-md-9 ul {
+  text-align: left;
+}
+
+#header_area.center_menu .col-md-3 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#header_area.center_menu .col-md-9 {
+  width: 100%;
+}
+#header_area.center_menu .col-md-9 ul {
+  text-align: center;
+}
+#header_area.center_menu .col-md-9 ul ul {
+  text-align: left;
+}
+
+/*=======================================
+ Index Page Style
+========================================*/
+#body_area {
+  padding: 45px 0;
+}
+#body_area .blog_area {
+  width: 100%;
+  margin-bottom: 15px;
+}
+#body_area .post_thumb {
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 15px;
+}
+#body_area .post_thumb img {
+  transition: 0.5s;
+  width: 100%;
+  display: block;
+}
+#body_area .post_thumb:hover img {
+  transform: scale(1.1);
+}
+#body_area .post_details {
+  width: 100%;
+}
+#body_area .post_details h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+#body_area .post_details h2 a {
+  color: #262626;
+  text-decoration: none;
+  transition: 0.5s;
+}
+#body_area .post_details h2 a:hover {
+  color: #ea1a70;
+}
+/*===========================================
+  Copyright Area Styling
+===========================================*/
+#copyright_area {
+  background: #292929;
+  padding: 20px 0;
+  color: #fff;
+  text-align: center;
+}
+#copyright_area p {
+  margin: 0;
+  color: #fff;
+  font-size: 15px;
+}
+#copyright_area p a {
+  color: #ea1a70;
+}
+#copyright_area p a:hover {
+  text-decoration: underline;
+}
