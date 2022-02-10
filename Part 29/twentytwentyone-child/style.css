@@ -1,0 +1,20 @@
+/*
+Theme Name: Twenty Twenty-One Child Theme
+Theme URI: #
+Author: Ali Hossain
+Author URI: http://www.alihossain.com/
+Description: Twenty Twenty-One Child Theme
+Version: 1.0.0
+Template: twentytwentyone
+*/
+
+body {
+  background: white;
+}
+.site-title {
+  font-weight: bold;
+  color: blue;
+  font-size: 30px;
+  margin: 0;
+  line-height: 1em;
+}
