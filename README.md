@@ -60,5 +60,5 @@ You need following skills to start with
 
 
 ## Course URL (Playlist)👇
- - [WordPress Theme Development ]([https://youtu.be/u8J5LEYmeMk](https://www.youtube.com/watch?v=KFy5TMsG09E&list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l))
+ - [WordPress Theme Development ](https://www.youtube.com/watch?v=KFy5TMsG09E&list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l)
 
