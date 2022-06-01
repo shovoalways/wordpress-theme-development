@@ -1,9 +1,17 @@
 # WordPress Theme Development 
 
+## 📝 Description
 Welcome to the WordPress theme development series, I will try my best to teach you all about WordPress theme development. After completing this course, I hope you will be able to create any WordPress theme based on client recruitments or your preference. This is a completely free course and it's now available on YouTube.
 
+## ⏳ Prerequisite
+You need following skills to start with
+- HTML (Hyper Text Markup Language)
+- CSS
+- JavaScript
+- PHP
+- Bootstrap (Not Mandatory)
 
-## Table of Content
+## 🎯Table of Content
 
  - [👉 WordPress Theme Development Roadmap](https://youtu.be/sni9ZUIJDhY)
  - [00. The Beginning](https://youtu.be/KFy5TMsG09E)
@@ -47,5 +55,10 @@ Welcome to the WordPress theme development series, I will try my best to teach y
  - [37. Post Formats](https://youtu.be/u8J5LEYmeMk)
 
 
-Course URL
-https://www.youtube.com/watch?v=KFy5TMsG09E&list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l
+## 🧑‍💻 Contributors
+- [@Ali Hossain]([https://www.github.com/octokatherine](https://github.com/shovoalways/))
+
+
+## Course URL (Playlist)👇
+ - [WordPress Theme Development ]([https://youtu.be/u8J5LEYmeMk](https://www.youtube.com/watch?v=KFy5TMsG09E&list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l))
+
