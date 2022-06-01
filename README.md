@@ -56,7 +56,7 @@ You need following skills to start with
 
 
 ## 🧑‍💻 Contributors
-- [@Ali Hossain]([https://www.github.com/octokatherine](https://github.com/shovoalways/))
+- [@Ali Hossain](https://github.com/shovoalways/)
 
 
 ## Course URL (Playlist)👇
