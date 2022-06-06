@@ -39,8 +39,8 @@ You need following skills to start with
  - [21. Working with WP Search Pages](https://youtu.be/QUJaH1pzeXk)
  - [22. Working with WP 404 Pages](https://youtu.be/A1_tXz3zSuw)
  - [23. Customize Theme Colors](https://youtu.be/8WNadXlIn0M)
- - [24. WordPress Custom Post](https://youtu.be/OhatttkHWIo)
- - [25. WordPress Custom Post](https://youtu.be/RFqXYSaIvHM)
+ - [24. WordPress Custom Post Part 01](https://youtu.be/OhatttkHWIo)
+ - [25. WordPress Custom Post Part 02](https://youtu.be/RFqXYSaIvHM)
  - [26. WordPress Shortcode Development](https://youtu.be/BgLZZCZ8qdA)
  - [27. Custom Post Shortcode](https://youtu.be/lc8ph8f86s8)
  - [28. How to add jQuery Plugin](https://youtu.be/iDazAFWI1K0)
@@ -53,7 +53,7 @@ You need following skills to start with
  - [35. Working with the comments.php template](https://youtu.be/Lz3KPIkZ7i8)
  - [36. the mime type](https://youtu.be/dO1-CylHdJw)
  - [37. Post Formats](https://youtu.be/u8J5LEYmeMk)
-
+ - [38. Page Template]([https://youtu.be/q777alqFa0Y)
 
 ## 🧑‍💻 Contributors
 - [@Ali Hossain](https://github.com/shovoalways/)
