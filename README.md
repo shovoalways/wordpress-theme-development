@@ -53,7 +53,7 @@ You need following skills to start with
  - [35. Working with the comments.php template](https://youtu.be/Lz3KPIkZ7i8)
  - [36. the mime type](https://youtu.be/dO1-CylHdJw)
  - [37. Post Formats](https://youtu.be/u8J5LEYmeMk)
- - [38. Page Template]([https://youtu.be/q777alqFa0Y)
+ - [38. Page Template]([https://youtu.be/q777alqFa0Y) 
 
 ## 🧑‍💻 Contributors
 - [@Ali Hossain](https://github.com/shovoalways/)
