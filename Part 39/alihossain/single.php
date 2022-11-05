@@ -10,7 +10,7 @@ get_header(); ?>
         <div class="col-md-9 post_page">
             <?php get_template_part('template_part/post_setup'); ?>
 
-            <div id="comments_area" <?php comment_class(); ?> id="comment-<?php comment_ID(); ?>">>
+            <div id="comments_area" <?php comment_class(); ?> id="comment-<?php comment_ID(); ?>">
               <?php comments_template(); ?>
             </div>
         </div>
