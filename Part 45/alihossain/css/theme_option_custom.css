@@ -1,0 +1,41 @@
+#theme_optin_body {
+  background: #fff;
+  padding: 20px 25px;
+  margin-top: 25px;
+  width: 90%;
+  max-width: 1000px;
+}
+#theme_optin_body label {
+  font-size: 16px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 15px;
+}
+#theme_optin_body input[type="text"] {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  width: 70%;
+  color: #262626;
+}
+#theme_optin_body input[type="submit"] {
+  background: #ea1a70;
+  border: 1px solid #ea1a70;
+  cursor: pointer;
+  padding: 10px 45px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  width: auto;
+  color: #fff;
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+#theme_optin_body input[type="submit"]:hover {
+  background: #262626;
+  border: 1px solid #262626;
+}
