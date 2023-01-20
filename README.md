@@ -54,6 +54,14 @@ You need following skills to start with
  - [36. the mime type](https://youtu.be/dO1-CylHdJw)
  - [37. Post Formats](https://youtu.be/u8J5LEYmeMk)
  - [38. Page Template](https://youtu.be/q777alqFa0Y)
+ - [39. Wordpress Error Handling](https://youtu.be/o6TStempums)
+ - [40. Responsive Fixing](https://youtu.be/gk9t1wl-SWU)
+ - [41. Custom post custom link](https://youtu.be/y799BVFA-rk)
+ - [42. Login page custom design](https://youtu.be/LbZsxErSnKA)
+ - [43. Custom Theme Option](https://youtu.be/4eu_KOliqJM)
+ - [44. Custom Theme Option Sub Menu](https://youtu.be/h9TkSi_2U08)
+ - [45. Custom Theme Option](https://youtu.be/mbHcNtkNtA4)
+ - [46. What's Next?](https://youtu.be/FruOXZbnyLM)
 
 
 ## 🧑‍💻 Contributors
